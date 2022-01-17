@@ -16,6 +16,10 @@ Triangular mesh to graph structure
 Used residual connection in hidden node features  
 ![model](https://user-images.githubusercontent.com/56711947/149703686-7803865c-212e-4ed5-ac1c-74407af170be.jpg)
 
+### Training
+Optimization formulation  
+![optimization formulation](https://user-images.githubusercontent.com/56711947/149729059-caf09fb0-6e0d-452f-87ec-5ac8ae8842ce.jpg)
+
 ### Results
 Top pictures -> Topology optimization  
 Bottom pictures -> GNN prediction  
