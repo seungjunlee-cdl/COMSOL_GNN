@@ -17,8 +17,8 @@ Used residual connection in hidden node features
 ![model](https://user-images.githubusercontent.com/56711947/149703686-7803865c-212e-4ed5-ac1c-74407af170be.jpg)
 
 ### Results
-Top picture -> Topology optimization  
-Bottom picture -> GNN prediction  
+Top pictures -> Topology optimization  
+Bottom pictures -> GNN prediction  
 ![res_pic](https://user-images.githubusercontent.com/56711947/149704099-81d2a28e-263e-44ad-bc4f-d1951d55b493.jpg)  
   
 Compliance scatter plot & Coefficient of determination
